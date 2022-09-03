@@ -1,1 +1,1 @@
-Create a symbolic link in the current working directory
+A script that moves all files beginning with an uppercase letter
