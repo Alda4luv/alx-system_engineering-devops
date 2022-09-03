@@ -1,1 +1,1 @@
-A script that moves all files beginning with an uppercase letter
+A script that creates directories welcome/,welcome/to/,welcome/to/school
